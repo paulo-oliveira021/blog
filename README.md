@@ -1,2 +1,2 @@
 # blog
-Repositório para a IC
+Repositório para a IC.
